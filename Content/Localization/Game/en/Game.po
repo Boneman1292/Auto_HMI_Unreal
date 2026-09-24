@@ -1,0 +1,78 @@
+﻿# Game English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2026-09-22 07:08\n"
+"PO-Revision-Date: 2026-09-22 07:08\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	FA1FDF5B41D3B1C5D41842871361EDC8
+#. SourceLocation:	/Game/Blueprints/WBP_Language_List.WBP_Language_List_C:WidgetTree.TextBlock_0.Text
+#: /Game/Blueprints/WBP_Language_List.WBP_Language_List_C:WidgetTree.TextBlock_0.Text
+msgctxt ",FA1FDF5B41D3B1C5D41842871361EDC8"
+msgid "English"
+msgstr "English"
+
+#. Key:	B44A6D974C1177D4D6E360A11F78FBD4
+#. SourceLocation:	/Game/Blueprints/WBP_Language_List.WBP_Language_List_C:WidgetTree.TextBlock_1.Text
+#: /Game/Blueprints/WBP_Language_List.WBP_Language_List_C:WidgetTree.TextBlock_1.Text
+msgctxt ",B44A6D974C1177D4D6E360A11F78FBD4"
+msgid "Spanish"
+msgstr "Spanish"
+
+#. Key:	B7120BDC4D3157155F6A1F9BF2380CED
+#. SourceLocation:	/Game/Blueprints/WBP_Language_List.WBP_Language_List_C:WidgetTree.TextBlock_2.Text
+#: /Game/Blueprints/WBP_Language_List.WBP_Language_List_C:WidgetTree.TextBlock_2.Text
+msgctxt ",B7120BDC4D3157155F6A1F9BF2380CED"
+msgid "German"
+msgstr "German"
+
+#. Key:	Lang_English
+#. SourceLocation:	/Game/Strings/UI_Strings.UI_Strings
+#: /Game/Strings/UI_Strings.UI_Strings
+msgctxt "UI_Strings,Lang_English"
+msgid "English"
+msgstr "English"
+
+#. Key:	Lang_German
+#. SourceLocation:	/Game/Strings/UI_Strings.UI_Strings
+#: /Game/Strings/UI_Strings.UI_Strings
+msgctxt "UI_Strings,Lang_German"
+msgid "German"
+msgstr "German"
+
+#. Key:	Lang_Spanish
+#. SourceLocation:	/Game/Strings/UI_Strings.UI_Strings
+#: /Game/Strings/UI_Strings.UI_Strings
+msgctxt "UI_Strings,Lang_Spanish"
+msgid "Spanish"
+msgstr "Spanish"
+
+#. Key:	Speed
+#. SourceLocation:	/Game/Strings/UI_Strings.UI_Strings
+#: /Game/Strings/UI_Strings.UI_Strings
+msgctxt "UI_Strings,Speed"
+msgid "Speed"
+msgstr "Speed"
+
+#. Key:	Temperature
+#. SourceLocation:	/Game/Strings/UI_Strings.UI_Strings
+#: /Game/Strings/UI_Strings.UI_Strings
+msgctxt "UI_Strings,Temperature"
+msgid "Temperature"
+msgstr "Temperature"
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/Game/WBP_LocalizedText.WBP_LocalizedText_C:WidgetTree.InternalTextBlock.Text
+#: /Game/WBP_LocalizedText.WBP_LocalizedText_C:WidgetTree.InternalTextBlock.Text
+msgctxt "UMG,TextBlockDefaultValue"
+msgid "Text Block"
+msgstr "Text Block"
+
