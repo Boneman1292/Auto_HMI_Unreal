@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "UI_Strings,Speed"
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+msgctxt "UI_Strings,Temperature"
+msgid "Temperature"
+msgstr "Temperatur"
+
+msgctxt "UI_Strings,Lang_English"
+msgid "English"
+msgstr "Englisch"
+
+msgctxt "UI_Strings,Lang_German"
+msgid "German"
+msgstr "Deutsch"
+
+msgctxt "UI_Strings,Lang_Spanish"
+msgid "Spanish"
+msgstr "Spanisch"
